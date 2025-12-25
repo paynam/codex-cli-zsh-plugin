@@ -1,6 +1,6 @@
 # Codex CLI Zsh Plugin
 
-Zsh plugin for the Codex CLI that adds two keybindings:
+Zsh plugin for the OpenAI Codex CLI that adds two keybindings:
 - `Ctrl+N` (`codex_shell`): turn a natural-language instruction into a single shell command (replaces the current command line).
 - `Ctrl+G` (`codex_explain`): explain the current command line and any risks.
 
@@ -10,6 +10,11 @@ Zsh plugin for the Codex CLI that adds two keybindings:
 - (Optional) **Oh My Zsh** if you want to install it as a custom plugin
 
 ## Installation
+
+For the official OpenAI Codex CLI installation guide, see:
+```
+https://developers.openai.com/codex/cli
+```
 
 ### Option A: Oh My Zsh (recommended)
 1. Clone this repo into your custom plugins directory:
